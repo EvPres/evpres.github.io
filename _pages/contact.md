@@ -18,9 +18,10 @@ permalink: /contact/
 <br>
 <i> Institute of Structural Engineering and Transportation Structures </i>
 <br>
-<a href="https://svf.tuke.sk/wps/portal/svf"> Faculty of Civil Engineering </a>
+<a href="https://svf.tuke.sk/wps/portal/svf"> <i>Faculty of Civil Engineering<i> </a>
 <br>
-<a href="https://tuke.sk/wps/portal/tuke"> Technical University of Košice </a>
+<a href="https://tuke.sk/wps/portal/tuke"><i>Technical University of Košice</i></a>
+
 <br>
 <br>
 <img src="/images/tuke_logo.png" width="300"/>

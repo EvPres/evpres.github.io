@@ -19,9 +19,9 @@ lang: sk
 <br>
 <i> Ústav inžinierskych konštrukcií a dopravných stavieb </i>
 <br>
-<a href="https://svf.tuke.sk/wps/portal/svf"> Stavebná fakulta </a>
+<a href="https://svf.tuke.sk/wps/portal/svf"> <i>Stavebná fakulta<i> </a>
 <br>
-<a href="https://tuke.sk/wps/portal/tuke"> Technická univerzita v Košiciach </a>
+<a href="https://tuke.sk/wps/portal/tuke"> <i>Technická univerzita v Košiciach<i> </a>
 <br>
 <br>
 <img src="/images/tuke_logo.png" width="300"/>
