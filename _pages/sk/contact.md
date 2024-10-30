@@ -25,5 +25,3 @@ lang: sk
 <br>
 <br>
 <img src="/images/tuke_logo.png" width="300"/>
-</p>
-</body>
