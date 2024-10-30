@@ -3,6 +3,8 @@ title: Contact
 permalink: /contact/
 ---
 
+<a href="mailto:evpres@tuke.sk">Email: evpres@tuke.sk</a>
+
 ## Pricnipal investigator
 <body>
     <p style="line-height: 1.3;">

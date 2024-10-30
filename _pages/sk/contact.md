@@ -4,6 +4,8 @@ permalink: /contact/
 lang: sk
 ---
 
+<a href="mailto:evpres@tuke.sk">Email: evpres@tuke.sk</a>
+
 ## Zodpovedný riešiteľ
 <body>
     <p style="line-height: 1.3;">
