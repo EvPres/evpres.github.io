@@ -1,5 +1,7 @@
 main:
 main:
+  - title: "Novinky"
+    url: /news/
   - title: "O projekte"
     url: /about/
   - title: "Výskumné ciele"
