@@ -4,7 +4,7 @@ permalink: /news/
 ---
 
 ## November 2024 - Workshop on Data-Driven Intelligent Assessment of Bridge Infrastructure
- <img src="/images/china.png"/>
+ <img src="/images/china.jpg"/>
 
 Last week, four members of our research team had the pleasure of attending a workshop on "Data-Driven Intelligent Assessment of Bridge Infrastructure," part of a bilateral project supported by the Slovak Research and Development Agency under project no. SK-CN-23-0037. Organized by Professor Zhen Sun and hosted by the School of Civil Engineering at Southeast University in China, the workshop gathered experts to discuss structural health monitoring (SHM) of girder bridges using real-time data and the current conditions of bridges in China and Slovakia. The program also included a tour of the Structural Laboratory at Southeast University.
 

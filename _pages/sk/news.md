@@ -5,7 +5,7 @@ lang: sk
 ---
 
 ## November 2024 - Workshop o inteligentnom hodnotení mostnej infraštruktúry založenom na dátach
- <img src="/images/china.png"/>
+ <img src="/images/china.jpg"/>
 
 Minulý týždeň sa štyria členovia nášho výskumného tímu zúčastnili workshopu na tému "Inteligentné hodnotenie mostnej infraštruktúry založené na dátach," ktorý je súčasťou bilaterálneho projektu podporovaného Agentúrou na podporu výskumu a vývoja pod číslom SK-CN-23-0037. Workshop, organizovaný profesorom Zhen Sun a hostený Fakultou stavebného inžinierstva na Southeast University v Číne, zhromaždil odborníkov na diskusiu o monitorovaní technického stavu (SHM) mostov na základe dát a aktuálnom stave mostov v Číne a na Slovensku. Súčasťou programu bola aj prehliadka laboratória na Southeast University.
 
