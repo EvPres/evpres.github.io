@@ -3,6 +3,15 @@ title: News
 permalink: /news/
 ---
 
+## June 2025 - Milestone Achieved: Prestressed Concrete Girders Successfully Cast
+ <img src="/images/prefa.jpg"/>
+
+We’re excited to share a major achievement in our ongoing research project — the successful casting of our prestressed concrete girders.
+
+This is a huge step forward in our research and development efforts, and we're thrilled to see everything coming together. The team’s hard work and coordination are paying off, and we’re looking forward to the next phases of testing and analysis. 
+
+Stay tuned for more updates!
+
 ## November 2024 - Workshop on Data-Driven Intelligent Assessment of Bridge Infrastructure
  <img src="/images/china.jpg"/>
 
