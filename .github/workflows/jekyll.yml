@@ -26,6 +26,9 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+name: Clean site folder
+  run: rm -rf _site
+
 jobs:
   # Build job
   build:
