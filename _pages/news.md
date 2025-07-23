@@ -3,6 +3,35 @@ title: News
 permalink: /news/
 ---
 
+# July 2025 - Material Properties Testing
+
+At the 28-day mark, the EVPRES team conducted a series of material characterization tests to evaluate the performance of our concrete samples.
+
+The program included compressive strength testing of concrete cubes, an essential step for determining accurate material parameters. These values are critical for both theoretical modeling and numerical simulations used in our ongoing research on structural behavior and performance.
+
+These tests are part of our commitment to ensuring scientific rigor and reliability in all phases of our work.
+
+# July 2025 - Workshop on Data-Driven Intelligent Assessment of Bridge Infrastructure held at TUKE
+ <img src="/images/workshop_SK.jpg"/>
+
+We’re happy to share that our recent research was presented at the workshop "Data-Driven Intelligent Assessment of Bridge Infrastructure" by Patrícia Vaňová, organized at Technical University of Košice!
+
+## July 2025 - EVACES Conference
+ <img src="/images/EVACES.jpg"/>
+
+While waiting for our girders to arrive, we’ve been keeping busy with exciting research! 
+
+Using data from a previous study, we explored the potential of sparse autoencoders — a type of neural network designed to learn efficient, compressed representations — for damage detection in a model steel truss bridge.
+
+We're proud to see how insights from one research can inform and inspire progress in another.
+
+## June 2025 - Prestressed Concrete Girders Delivered
+ <img src="/images/delivery.jpg"/>
+
+Just a few days after casting, our two prestressed concrete girders have been successfully delivered to our laboratory at Technical University of Košice!
+
+This brings us one step closer to the experimental phase of our research. We’re excited to begin preparations for testing and to gather valuable data for structural health monitoring and analysis.
+
 ## June 2025 - Milestone Achieved: Prestressed Concrete Girders Successfully Cast
  <img src="/images/prefa.jpg"/>
 
