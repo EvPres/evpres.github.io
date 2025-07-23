@@ -3,15 +3,16 @@ title: News
 permalink: /news/
 ---
 
-# July 2025 - Material Properties Testing
+## July 2025 - Material Properties Testing
+ <img src="/images/material.jpg"/>
 
 At the 28-day mark, the EVPRES team conducted a series of material characterization tests to evaluate the performance of our concrete samples.
 
-The program included compressive strength testing of concrete cubes, an essential step for determining accurate material parameters. These values are critical for both theoretical modeling and numerical simulations used in our ongoing research on structural behavior and performance.
+One of the key procedures was modulus of elasticity testing. This test helps determine how concrete deforms under load — a critical parameter for both numerical simulations and modal analysis, where material stiffness directly influences dynamic response.
 
-These tests are part of our commitment to ensuring scientific rigor and reliability in all phases of our work.
+Accurate determination of these values ensures the reliability of our theoretical models and the validity of our experimental investigations.
 
-# July 2025 - Workshop on Data-Driven Intelligent Assessment of Bridge Infrastructure held at TUKE
+## July 2025 - Workshop on Data-Driven Intelligent Assessment of Bridge Infrastructure held at TUKE
  <img src="/images/workshop_SK.jpg"/>
 
 We’re happy to share that our recent research was presented at the workshop "Data-Driven Intelligent Assessment of Bridge Infrastructure" by Patrícia Vaňová, organized at Technical University of Košice!
