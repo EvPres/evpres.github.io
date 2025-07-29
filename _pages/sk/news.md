@@ -4,6 +4,15 @@ permalink: /news/
 lang: sk
 ---
 
+## Júl 2025 – IAESTE stážista
+<img src="/images/John.jpg"/>
+
+Počas 8 týždňov, od polovice mája do polovice júla, mal náš tím tú česť privítať stážistu z programu IAESTE na Technickej univerzite v Košiciach ako súčasť našej pokračujúcej medzinárodnej spolupráce.
+
+S radosťou sme hostili Johna Witczaka, ktorý významne prispel k vývoju Python kódu pre databázu strát predpätia — čo je dôležitá súčasť našej práce v oblasti monitorovania stavu mostov.
+
+Johnovi úprimne ďakujeme za jeho obrovskú pomoc, nasadenie a skvelú energiu počas celej stáže. Prajeme mu veľa úspechov v jeho ďalších projektoch!
+
 ## Júl 2025 – Testovanie materiálových vlastností
 <img src="/images/material.jpg"/>
 

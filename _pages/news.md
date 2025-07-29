@@ -2,6 +2,14 @@
 title: News
 permalink: /news/
 ---
+## July 2025 - IAESTE intern
+ <img src="/images/John.jpg"/>
+ 
+For 8 weeks, from mid-May to mid-July, our team had the pleasure of welcoming an IAESTE intern at Technical University of Košice as part of our ongoing international collaboration efforts.
+
+We were happy to host John Witczak, who contributed significantly to the development of Python code for our prestress loss database — an important part of our work in structural analysis and research.
+
+We’d like to sincerely thank John for his tremendous help, dedication, and great energy throughout his stay. Wishing him all the best in his future endeavors!
 
 ## July 2025 - Material Properties Testing
  <img src="/images/material.jpg"/>
