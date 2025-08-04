@@ -4,6 +4,14 @@ permalink: /news/
 lang: sk
 ---
 
+## Júl 2025 – Náš výskum dosahuje nové výšky – doslova!
+<img src="/images/EMA1.jpg"/>
+
+V rámci prebiehajúcich experimentálnych prác sme v laboratóriu Technickej univerzity v Košiciach vykonali predbežnú modálnu analýzu pomocou excitačného impulzu vytvoreného pádom kovovej gule z výšky. Táto jednoduchá, no účinná metóda nám umožňuje pozorovať dynamickú odozvu konštrukcie a určiť jej vlastné frekvencie a vlastné tvary.
+
+Veľká vďaka patrí nášmu kolegovi za to, že spravil (rebríkový) krok navyše, aby všetko prebehlo bezpečne a presne!
+
+
 ## Júl 2025 – IAESTE stážista
 <img src="/images/John.jpg"/>
 

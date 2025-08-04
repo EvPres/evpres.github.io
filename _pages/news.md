@@ -2,6 +2,14 @@
 title: News
 permalink: /news/
 ---
+
+## July 2025 - Our research is reaching new heights — literally!
+ <img src="/images/EMA1.jpg"/>
+
+As part of our ongoing experimental work, we performed a preliminary modal analysis using impact excitation from a dropped metal ball at Technical University of Košice's lab. This simple yet effective method helps us observe the dynamic response of the structure and extract its natural frequencies and mode shapes.
+
+Big thanks to our colleague for going the extra (ladder) step to get the job done safely and accurately!
+
 ## July 2025 - IAESTE intern
  <img src="/images/John.jpg"/>
  
