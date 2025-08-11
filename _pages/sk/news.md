@@ -9,7 +9,7 @@ lang: sk
  
 Či už ide o státie na nosníkoch alebo púšťanie kovových gúľ z rebríkov, náš tím ide naplno — s vedou, bezpečnosťou a úsmevom.
 
-Veľkou súčasťou našej výskumnej kultúry v EvPres je zvedavosť, spolupráca a radosť z procesu (aj keď si to vyžaduje nezvyčajné pozície).
+V EvPres veríme, že zvedavosť, spolupráca a trocha smiechu sú rovnako dôležité ako dáta a výsledky.
 
 ## Júl 2025 – Náš výskum dosahuje nové výšky – doslova!
 <img src="/images/EMA1.jpg"/>

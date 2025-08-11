@@ -8,7 +8,7 @@ permalink: /news/
 
 Whether it’s standing on beams or dropping metal balls from ladders, our team is all in — with science, safety, and smiles.
 
-A big part of our research culture at EvPres is staying curious, collaborative, and enjoying the process (even when it involves unusual positions).
+At EvPres, we believe that curiosity, collaboration, and a bit of laughter are just as important as data and results.
 
 ## July 2025 - Our research is reaching new heights — literally!
  <img src="/images/EMA1.jpg"/>
