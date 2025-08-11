@@ -4,13 +4,19 @@ permalink: /news/
 lang: sk
 ---
 
+## August 2025 - Na výskume sa zabávame!
+ <img src="/images/LK.jpg"/>
+ 
+Či už ide o státie na nosníkoch alebo púšťanie kovových gúľ z rebríkov, náš tím ide naplno — s vedou, bezpečnosťou a úsmevom.
+
+Veľkou súčasťou našej výskumnej kultúry v EvPres je zvedavosť, spolupráca a radosť z procesu (aj keď si to vyžaduje nezvyčajné pozície).
+
 ## Júl 2025 – Náš výskum dosahuje nové výšky – doslova!
 <img src="/images/EMA1.jpg"/>
 
 V rámci prebiehajúcich experimentálnych prác sme v laboratóriu Technickej univerzity v Košiciach vykonali predbežnú modálnu analýzu pomocou excitačného impulzu vytvoreného pádom kovovej gule z výšky. Táto jednoduchá, no účinná metóda nám umožňuje pozorovať dynamickú odozvu konštrukcie a určiť jej vlastné frekvencie a vlastné tvary.
 
 Veľká vďaka patrí nášmu kolegovi za to, že spravil (rebríkový) krok navyše, aby všetko prebehlo bezpečne a presne!
-
 
 ## Júl 2025 – IAESTE stážista
 <img src="/images/John.jpg"/>

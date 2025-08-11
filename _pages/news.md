@@ -3,6 +3,13 @@ title: News
 permalink: /news/
 ---
 
+## August 2025 - We’re not forgetting to have fun while researching!
+ <img src="/images/LK.jpg"/>
+
+Whether it’s standing on beams or dropping metal balls from ladders, our team is all in — with science, safety, and smiles.
+
+A big part of our research culture at EvPres is staying curious, collaborative, and enjoying the process (even when it involves unusual positions).
+
 ## July 2025 - Our research is reaching new heights — literally!
  <img src="/images/EMA1.jpg"/>
 
