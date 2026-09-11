@@ -50,6 +50,22 @@ Technical University of Košice
 
 <br><br>
 
+<b><u>Jana Krempaská</u></b>
+<br>
+PhD student
+<br>
+Department of Load Bearing Structures and Intelligent Adaptive Structures
+<br>
+Institute of Structural Engineering and Transportation Structures
+<br>
+Faculty of Civil Engineering
+<br>
+Technical University of Košice
+<br>
+<a href="mailto:jana.krempaska@tuke.sk">Email: jana.krempaska@tuke.sk</a>
+
+<br><br>
+
 <b><u>Štefan Kušnír</u></b>
 <br>
 Assistant Professor
@@ -68,7 +84,7 @@ Technical University of Košice
 
 <b><u>Vincent Kvočák</u></b>
 <br>
-Professor
+Retired Professor
 <br>
 Department of Load Bearing Structures and Intelligent Adaptive Structures
 <br>
@@ -149,22 +165,4 @@ Faculty of Civil Engineering
 Technical University of Košice
 <br>
 <a href="mailto:patricia.vanova@tuke.sk">Email: patricia.vanova@tuke.sk</a>
-
-<br><br>
-
-<b><u>Michala Weissová</u></b>
-<br>
-PhD student
-<br>
-Department of Load Bearing Structures and Intelligent Adaptive Structures
-<br>
-Institute of Structural Engineering and Transportation Structures
-<br>
-Faculty of Civil Engineering
-<br>
-Technical University of Košice
-<br>
-<a href="mailto:michala.weissova@tuke.sk">Email: michala.weissova@tuke.sk</a>
 </div>
-
-
