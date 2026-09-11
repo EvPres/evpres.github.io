@@ -157,7 +157,7 @@ Technical University of Košice
     <i class="fab fa-linkedin"></i>
 </a>
 <a href="https://orcid.org/0000-0001-9227-337X" target="_blank">
-    <i class="fab fa-orcid"></i>
+    <i class="fab fa-orcid" style="color: #A6CE39;"></i>
 </a>
 <br>
 Assistant Professor
