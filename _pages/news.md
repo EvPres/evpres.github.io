@@ -2,8 +2,8 @@
 title: News
 permalink: /news/
 ---
-## September 2025 - Research Is Not All About Research!
- <img src="/images/sport.jpg"/>
+## September 2026 - Research Is Not All About Research!
+ <img src="/images/sport.JPG"/>
 
 We were glad to see our team members take some time away from the lab to enjoy our sports day together.
 
@@ -11,7 +11,7 @@ Days like this are a good opportunity to strengthen relationships, have some fun
 
 Because a good team is built outside the lab too. 😊
 
-## September 2025 - Strengthening International Research Collaboration
+## September 2026 - Strengthening International Research Collaboration
  <img src="/images/Seville.jpg"/>
 
 We were happy to see our colleague, Ján Perháč, representing our team during a research stay at the University of Seville.
@@ -34,7 +34,7 @@ Turning real-world traffic into simulation input involves quite a bit of work be
 Sometimes, a few seconds on screen represent hours of research.
 
 ## August 2026 - Connecting Research with Engineering Practice
- <img src="/images/holmes.jpg"/>
+ <img src="/images/holmes.png"/>
 
 An important part of the EvPres project is connecting our research with real-world engineering practice.
 
@@ -57,7 +57,7 @@ We are also grateful to everyone at the University of Auckland who made the visi
 
 International research stays such as this are an important part of building a strong research network and bringing new perspectives back into our work.
 
-## July 2025 - Advancing Women in Engineering & Construction (AWEC) Symposium
+## July 2026 - Advancing Women in Engineering & Construction (AWEC) Symposium
  <img src="/images/awec.jpg"/>
 
 We were pleased to see our Principal Investigator take part in the Advancing Women in Engineering & Construction (AWEC) Symposium.
@@ -126,7 +126,7 @@ Congratulations on this well-deserved recognition, and thank you for everything 
 🔗 [Watch the STVR feature](https://lnkd.in/ejfWz8EC)
 
 ## April 2026 - EvPres at NZSEE 2026
- <img src="/images/NZSEE.jpg"/>
+ <img src="/images/nzsee.jpg"/>
 
 The EvPres project was presented at the New Zealand Society for Earthquake Engineering (NZSEE) Conference 2026.
 
