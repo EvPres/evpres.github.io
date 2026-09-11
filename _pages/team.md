@@ -153,6 +153,14 @@ Technical University of Košice
 <br><br>
 
 <b><u>Patrícia Vaňová</u></b>
+&nbsp;
+<a href="www.linkedin.com/in/patrícia-vaňová-566738140" target="_blank">
+    <i class="fab fa-linkedin"></i>
+</a>
+&nbsp;
+<a href="https://orcid.org/0000-0001-9227-337X" target="_blank">
+    <i class="fab fa-orcid"></i>
+</a>
 <br>
 Assistant Professor
 <br>
