@@ -154,7 +154,7 @@ Technical University of Košice
 
 <b><u>Patrícia Vaňová</u></b>
 &nbsp;
-<a href="https://www.linkedin.com/in/patr%C3%ADcia-va%C5%88ov%C3%A1-566738140/" target="_blank">
+<a href="https://www.linkedin.com/in/patr%C3%ADcia-va%C5%88ov%C3%A1-566738140/" target="_blank" style="text-decoration: none;">
     <i class="fab fa-linkedin"></i>
 </a>
 &nbsp;
