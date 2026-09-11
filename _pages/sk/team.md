@@ -52,6 +52,22 @@ Technická univerzita v Košiciach
 
 <br><br>
 
+<b><u>Jana Krempaská</u></b>
+<br>
+PhD študentka
+<br>
+Oddelenie nosných konštrukcií a inteligentných adaptívnych sústav
+<br>
+Ústav inžinierskych konštrukcií a dopravných stavieb
+<br>
+Stavebná fakulta
+<br>
+Technická univerzita v Košiciach
+<br>
+<a href="mailto:jana.krempaska@tuke.sk">Email: jana.krempaska@tuke.sk</a>
+
+<br><br>
+
 <b><u>Štefan Kušnír</u></b>
 <br>
 Odborný asistent
@@ -151,20 +167,4 @@ Stavebná fakulta
 Technická univerzita v Košiciach
 <br>
 <a href="mailto:patricia.vanova@tuke.sk">Email: patricia.vanova@tuke.sk</a>
-
-<br><br>
-
-<b><u>Michala Weissová</u></b>
-<br>
-PhD študentka
-<br>
-Oddelenie nosných konštrukcií a inteligentných adaptívnych sústav
-<br>
-Ústav inžinierskych konštrukcií a dopravných stavieb
-<br>
-Stavebná fakulta
-<br>
-Technická univerzita v Košiciach
-<br>
-<a href="mailto:michala.weissova@tuke.sk">Email: michala.weissova@tuke.sk</a>
 </div>
